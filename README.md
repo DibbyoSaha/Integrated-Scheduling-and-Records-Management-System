@@ -25,7 +25,7 @@ A web application that provides an integrated scheduling and records management 
 /scheduling-system
 │── /backend                # Flask Backend
 │   │── app.py              # Main Flask App
-│   │── database.db         # SQLite Database
+│   │── bookings.db         # SQLite Database
 │   │── venv/               # Virtual Environment
 │── /frontend               # React Frontend
 │   │── src/
