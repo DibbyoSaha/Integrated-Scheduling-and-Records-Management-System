@@ -22,7 +22,7 @@ A web application that provides an integrated scheduling and records management 
 ## 📂 Project Structure
 
 ```
-/scheduling-system
+/Integrated-Scheduling-and-Records-Management-System
 │── /backend                # Flask Backend
 │   │── app.py              # Main Flask App
 │   │── bookings.db         # SQLite Database
