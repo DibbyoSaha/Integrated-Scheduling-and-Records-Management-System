@@ -9,8 +9,6 @@ A web application that provides an integrated scheduling and records management 
 - Backend API for booking management.
 - Styled using Tailwind CSS.
 
----
-
 ## Tech Stack
 
 - **Frontend**: React, TypeScript, FullCalendar, TailwindCSS
